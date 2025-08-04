@@ -8,6 +8,7 @@
 <h2>TECHNICAL SKILLS</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-8da0cb?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Numpy-66c2a5?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
   <img src="https://img.shields.io/badge/Pandas-fcce8d?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas">
   <img src="https://img.shields.io/badge/MySQL-e78ac3?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -17,7 +18,6 @@
   <img src="https://img.shields.io/badge/Statistics-ccebc5?style=for-the-badge" alt="Statistics">
   <img src="https://img.shields.io/badge/Data%20Analysis-ffeda0?style=for-the-badge" alt="Data Analysis">
   <img src="https://img.shields.io/badge/Predictive%20Analysis-decbe4?style=for-the-badge" alt="Predictive Analysis">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
