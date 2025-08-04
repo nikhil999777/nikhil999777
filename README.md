@@ -5,20 +5,53 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-966a39256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilvermank123@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<h2>TECHNICAL SKILLS</h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-8da0cb?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Numpy-66c2a5?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+  <img src="https://img.shields.io/badge/Pandas-fcce8d?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas">
+  <img src="https://img.shields.io/badge/MySQL-e78ac3?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Machine%20Learning-a6d854?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Data%20Visualization-e5c494?style=for-the-badge" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Power%20BI-b3b3b3?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Statistics-ccebc5?style=for-the-badge" alt="Statistics">
+  <img src="https://img.shields.io/badge/Data%20Analysis-ffeda0?style=for-the-badge" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Predictive%20Analysis-decbe4?style=for-the-badge" alt="Predictive Analysis">
+</p>
+
+<h2>Traits</h2>
+<p>
+  <img src="https://img.shields.io/badge/Time--management-E0BBE4?style=for-the-badge" alt="Time-management">
+  <img src="https://img.shields.io/badge/Active%20Listening-EEDDD3?style=for-the-badge" alt="Active Listening">
+  <img src="https://img.shields.io/badge/Adaptability-ABC4FF?style=for-the-badge" alt="Adaptability">
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-EAC4D5?style=for-the-badge" alt="Analytical Thinking">
+  <img src="https://img.shields.io/badge/Interpersonal%20Skills-FFC2D1?style=for-the-badge" alt="Interpersonal Skills">
+  <img src="https://img.shields.io/badge/Communication%20Skills-84DCC6?style=for-the-badge" alt="Communication Skills">
+  <img src="https://img.shields.io/badge/Problem%20Solving%20Skills-A7BED3?style=for-the-badge" alt="Problem Solving Skills">
+  <img src="https://img.shields.io/badge/Troubleshooting-DAB8944?style=for-the-badge" alt="Troubleshooting">
+</p>
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhi-v017&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhi-v017&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-v017&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nikhil999777&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil999777&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil999777&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhi-v017&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nikhil999777&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhi-v017&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nikhil999777&icon=4&color=0)](https://visitcount.itsvg.in)
+
+ ##  🚀 UPCOMING PROJECTS 🚀
+ 
+  📊 Classification Projects: Using machine learning algorithms to classify and categorize data.
+
+  📈 Regression Projects:  Predicting and forecasting trends using regression analysis
+
+  📊 Dashboards: Creating interactive and visually appealing dashboards to display data and insights.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
