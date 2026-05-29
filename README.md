@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/Neural%20Networks-4285F4?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Neural Networks">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  ///<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">///
   <img src="https://img.shields.io/badge/Data%20Visualization-e5c494?style=for-the-badge" alt="Data Visualization">
   <img src="https://img.shields.io/badge/Power%20BI-b3b3b3?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Statistics-ccebc5?style=for-the-badge" alt="Statistics">
