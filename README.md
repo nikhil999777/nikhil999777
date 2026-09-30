@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data analysis and machine learning projects<br>🌱 I’m currently learning machine learning to the advanced level<br>💬 Ask me about data Science <br>⚡ Fun fact : Sometime I act like a dumb and nonsense.
+🔭Currently working in a mechanical assembly and component manufacturing company as a Solidworks design Engineer, learning Design Engineering. <br>🔭 I’m currently working on data analysis and machine learning projects<br>🌱 I’m currently learning machine learning to the advanced level<br>💬 Ask me about data Science <br>⚡ Fun fact : Sometime I act like a dumb and nonsense.
 
 
 ## 🌐 Socials:
